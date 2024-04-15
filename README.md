@@ -2,7 +2,7 @@
 
 
 
-Running at: <https://jpa03-andrew-kwon1.dokku-11.cs.ucsb.edu>
+Running at: <http://jpa03-andrew-kwon1.dokku-11.cs.ucsb.edu>
 
 # Configuring GitHub Pages for the documentation
 
